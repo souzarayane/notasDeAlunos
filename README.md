@@ -18,6 +18,10 @@ Este projeto em Java permite a inserção, manipulação e exibição de notas d
 - Cada escolha no menu é manipulada usando um `switch` com casos específicos para cada funcionalidade.
 - O loop `do-while` mantém o menu ativo até que o usuário escolha sair.
 
+  ## Demonstração
+  ![Demonstração do Programa](https://github.com/souzarayane/notasDeAlunos/blob/main/NotasAlunos.gif)
+
+
 ## Como Executar
 
 1. Certifique-se de ter o [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html) instalado.
